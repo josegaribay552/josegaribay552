@@ -1,5 +1,5 @@
 
-## HI THERE 👋 MY NAME IS JOSE GARIBAY CHAVEZ
+## Hi there, 👋 My name is Jose Garibay
 - 👋 Hi, I’m @josegaribay552
 - 👀 I’m interested in ...   embedded systems,robotics,blockchain,Python,IA,IoT.
 - 🌱 I’m currently learning ... Deustch
