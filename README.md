@@ -1,7 +1,7 @@
 
 ## Hi there, 👋 My name is Jose Garibay
 - 👋 Hi, I’m @josegaribay552
-- 👀 I’m interested in ...   Programming,embedded systems,robotics,blockchain,Python,IA,IoT.
+- 👀 I’m interested in ...   Programming, embedded systems, robotics, blockchain, Python, IA, IoT.
 - 🌱 I’m currently learning ... Deustch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send a email to garibchavez@gmail.com
